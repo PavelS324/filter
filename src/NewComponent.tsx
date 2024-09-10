@@ -1,6 +1,7 @@
 import React, {useState} from "react";
 import {oneMoneyType} from "./App";
 
+
 export function NewComponent(currentMoney: Array<oneMoneyType>, onClickFilterHandler: any) {
 
     return (
